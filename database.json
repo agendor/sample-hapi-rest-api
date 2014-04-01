@@ -1,0 +1,11 @@
+{
+	"dev": {
+		"host": "localhost",
+		"user": { "ENV" : "DB_DEV_USER" },
+		"password" : { "ENV" : "DB_DEV_PASS" },
+		"database": "hapi-todo",
+		"driver": "mysql",
+		"multipleStatements": true
+	},
+	"sql-file" : true
+}
