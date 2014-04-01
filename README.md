@@ -64,4 +64,4 @@ That's it! You should be able to play around your API GETting, POSTing, PUTing A
 
 ##Further reading
 
-If you want a deeper analysis of the project, checkout [this Gist](https://gist.github.com/agendor/ef23985b4ac07b2ebdc9).
+If you want a deeper analysis of the project, checkout [this Gist](https://gist.github.com/agendor/9922151).
