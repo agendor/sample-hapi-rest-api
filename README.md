@@ -1,3 +1,6 @@
+**This project is outdated. We've built it with Hapi.js v3.0 and Node v0.10.26.**  
+**There is a another similar example working with newer versions here: https://github.com/rcorral/hapi-restful-api-example**
+
 ##Sample hapi.js REST API
 
 A sample structure for building a REST API on top of `hapi.js` framework that consumes a `MySQL` database.
