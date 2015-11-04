@@ -13,6 +13,6 @@ fs.readdirSync(__dirname).forEach(function (file) {
   mod[path.basename(file, '.js')] = require(path.join(__dirname, file));
 
 
-  /* Extend module.exports (in this case - undescore.js, can be any other) */
+  /* Extend module.exports (in this case - underscore.js, can be any other) */
   _.extend(module.exports, mod);
 });
