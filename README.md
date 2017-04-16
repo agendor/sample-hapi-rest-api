@@ -1,7 +1,7 @@
 **This project is outdated. We've built it with Hapi.js v3.0 and Node v0.10.26.**  
 **There is a another similar example working with newer versions here: https://github.com/rcorral/hapi-restful-api-example**
 
-##Sample hapi.js REST API
+## Sample hapi.js REST API
 
 A sample structure for building a REST API on top of `hapi.js` framework that consumes a `MySQL` database.
 
@@ -65,6 +65,6 @@ That's it! You should be able to play around your API GETting, POSTing, PUTing A
 * **PUT** http://localhost:8000/tasks/{task_id}
 * **DELETE** http://localhost:8000/tasks/{task_id}
 
-##Further reading
+## Further reading
 
 If you want a deeper analysis of the project, checkout [this Gist](https://gist.github.com/agendor/9922151).
